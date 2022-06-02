@@ -1,0 +1,18 @@
+table{
+    border: 1px solid;
+}
+
+td{
+    border: 1px solid;
+    height: 50px;
+    width: 50px;
+}
+
+#blackcolor{
+    color: black;
+    background-color: black;
+}
+
+.redcolor{
+    background-color: red;
+}
